@@ -104,6 +104,11 @@ Notes:	 Hand coded for Udemy.com
 footer{
    background: #333;
    font-size: 11px;
-   padding:20px;
+   padding:10px;
 
+}
+
+
+.foot{
+   font-size: 15px;
 }
