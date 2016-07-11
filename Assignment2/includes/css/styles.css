@@ -26,8 +26,7 @@ Notes:	 Hand coded for Udemy.com
    Navbar
    -------------------------------------- */
   
-
-   .im{
+.im{
       height: 40px;
       width: 100px;
    }
@@ -39,9 +38,7 @@ Notes:	 Hand coded for Udemy.com
    .navbar-brand{
       padding:13px 15px;
    }
-/* --------------------------------------
-   Carousel
-   -------------------------------------- */
+/* Carousel */
 
 #myCarousel .item
 {
@@ -103,12 +100,13 @@ Notes:	 Hand coded for Udemy.com
 
 footer{
    background: #333;
-   font-size: 11px;
+   font-size: 15px;
    padding:10px;
-
+   margin:0;
+   color:#ADD8E6;
 }
 
-
-.foot{
-   font-size: 15px;
+footer pre{
+   background: #333;
+   border-color: #333;
 }
